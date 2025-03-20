@@ -1,0 +1,36 @@
+body{
+    background-color:#121212;
+    color: white;
+  
+}
+
+.container{
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    border: 45px;
+}
+
+img{
+    border: 2px solid #0ff;
+    border-radius: 10px;
+
+}
+
+.Cyberpunk{
+    color: #0ff;
+
+}
+
+.row{
+    background-color: rgb(255, 255, 255, 0.1);
+    border-radius: 10px;
+    border: 20px;
+    
+}
+
+
